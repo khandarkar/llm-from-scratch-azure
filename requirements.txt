@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+azure-ai-ml
+azureml-core
+azure-identity
+sentencepiece
+tiktoken
